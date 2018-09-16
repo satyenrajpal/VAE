@@ -7,3 +7,4 @@ The dataset is sourced from [this repo](https://github.com/cianeastwood/qedr).
 
 Results - 
 ![](/docs/1_sample_1999.png) | ![](/docs/2_sample_99.png)
+<img src="/docs/1_sample_1999.png" width="300" hspace="20" /> <img src="/docs/2_sample_99.png" width="300"/> 
