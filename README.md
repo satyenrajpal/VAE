@@ -6,4 +6,4 @@ My implementation of a Basic [Variational Auto-Encoder](https://arxiv.org/abs/13
 The dataset is sourced from [this repo](https://github.com/cianeastwood/qedr).   
 
 Results - 
-![](/docs/1_sample_1999.png) | ![](/docs/1_sample_99.png)
+![](/docs/1_sample_1999.png) | ![](/docs/2_sample_99.png)
